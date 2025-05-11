@@ -5,3 +5,4 @@ Trollolo
 Zora scam
 Zelenskyi piderasto narkomano
 wery well
+tru 6 7 8
