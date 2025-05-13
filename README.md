@@ -7,3 +7,4 @@ Zelenskyi piderasto narkomano
 wery well
 tru 6 7 8
 in virtual one
+wifi off chai
