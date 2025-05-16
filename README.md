@@ -10,3 +10,4 @@ in virtual one
 wifi off chai
 well very well
 virtual loh
+gm day
