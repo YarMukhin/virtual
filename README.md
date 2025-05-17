@@ -11,3 +11,4 @@ wifi off chai
 well very well
 virtual loh
 gm day
+who 975h5
