@@ -24,3 +24,4 @@ gm
 Hot wallet scam
 op\arbitrium
 OG
+money
