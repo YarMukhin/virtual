@@ -25,3 +25,4 @@ Hot wallet scam
 op\arbitrium
 OG
 money
+crypto huipto
