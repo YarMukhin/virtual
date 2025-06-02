@@ -27,3 +27,4 @@ OG
 money
 crypto huipto
 good day
+stop
