@@ -36,3 +36,4 @@ moment
 galileo
 sigma
 trump
+transaksion
