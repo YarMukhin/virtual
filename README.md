@@ -37,3 +37,4 @@ galileo
 sigma
 trump
 transaksion
+space
