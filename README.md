@@ -38,3 +38,4 @@ sigma
 trump
 transaksion
 space
+Daily Check
