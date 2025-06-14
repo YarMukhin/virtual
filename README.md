@@ -39,3 +39,4 @@ trump
 transaksion
 space
 Daily Check
+1 BTC
