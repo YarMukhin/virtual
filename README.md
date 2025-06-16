@@ -41,3 +41,4 @@ space
 Daily Check
 1 BTC
 grass
+monad
