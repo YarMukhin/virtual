@@ -56,3 +56,4 @@ OG swap
 VPN
 OP
 Rise
+internet
