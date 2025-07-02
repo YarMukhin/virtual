@@ -57,3 +57,4 @@ VPN
 OP
 Rise
 internet
+Badges
