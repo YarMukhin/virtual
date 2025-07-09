@@ -64,3 +64,4 @@ scam
 claim
 og swap
 chrom
+remove
