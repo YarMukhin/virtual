@@ -65,3 +65,4 @@ claim
 og swap
 chrom
 remove
+bomzur
