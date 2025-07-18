@@ -73,3 +73,4 @@ private
 plan
 Base
 Free
+smart
