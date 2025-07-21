@@ -76,3 +76,4 @@ Free
 smart
 gm
 Check
+zero
