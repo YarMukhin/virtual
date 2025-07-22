@@ -77,3 +77,4 @@ smart
 gm
 Check
 zero
+fantastik
