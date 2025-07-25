@@ -80,3 +80,4 @@ zero
 fantastik
 sell
 very
+crypto scam
