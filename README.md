@@ -81,6 +81,8 @@ fantastik
 sell
 525hhhhh
 very
+uuunoiz
+
 crypto scam
 crypto
 KYC
