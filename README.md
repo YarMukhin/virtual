@@ -79,6 +79,7 @@ Check
 zero
 fantastik
 sell
+525hhhhh
 very
 crypto scam
 crypto
