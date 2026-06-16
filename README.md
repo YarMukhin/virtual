@@ -87,3 +87,15 @@ crypto scam
 crypto
 KYC
 one
+terminal
+usa
+russia
+rabbit
+salana
+james
+jam
+space
+one love
+matrix
+readme
+from russia
